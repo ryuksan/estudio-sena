@@ -1,0 +1,74 @@
+#include <iostream>
+
+// Sofía es estudiante de una carrera técnica en sistemas de computación y requiere 
+//un ingreso extra para amortiguar sus gastos personales. Ella se ha encontrado con una
+//oportunidad en Internet donde le ofrecen zapatos al por mayor y a un buen precio. Ella 
+//decide desarrollar una aplicación en el lenguaje C++ que le ofrezca realizar cálculos para 
+//determinar costos, margen de ganancias y proyectar sus ventas. En este programa a 
+//desarrollar, desempeñará el rol de compañero (a) y socio (a) de Sofía y le ayudará con su 
+//propósito.
+//Para esta primera etapa, se deberá definir las variables que necesita la aplicación y hará
+//una prueba relacionada con el ingreso y la salida de datos unicamente. El
+//programa que debe desarrollar debe mostrar una Interfaz de Usuario semejante a la
+//siguiente.
+//refencias
+//descripcion
+//talla
+//disponibilidad
+//costo
+//precio
+
+using namespace std;
+//funcion para saber la ganancia 
+int compra-venta(int precio compra, int precio venta)
+
+int main()
+{
+	int referencia
+	char descripcion[50];
+	int talla;
+	char disponibilidad
+	int costo
+	int precio de venta
+
+	cout<<"Digitar la referencia"<<endl;
+	cin>>Referencia;
+
+	cout<<"Dar una Descripcion"<<endl;
+	cin.getline(Descripcion, 50);
+
+	cout<<"Digite la talla del zapato"<<endl;
+	cin>>Talla;
+
+	cout<<"Disponibilidad"<<endl;
+	cin>>Disponible;
+
+	cout<<"costo"<<endl;
+	cin>>precio compra;
+
+	cout<<"precio venta"<<endl;
+	cin>>Precio Venta;
+
+	system("cls");
+	cout<<"La referencia es: "<< Referencia <<endl;
+
+	cout<<"La Descricion es: "<< Descripcion <<endl;
+
+	cout<<"La talla del zapato es: "<< Talla <<endl
+
+	cout<<" Esta disponible: "<<Disponibilidad<<endl;
+
+	cout<<"Se compro en: "<<Precio compra<<endl;
+
+	cout<<"Se vende en: "<<Precio Venta<<endl;
+
+	cout<<"La ganancia neta de este zapato es: "<< compra-venta(precio compra, precio venta)<<endl;
+
+	system("pause");
+	return EXIT_SUCCESS;
+}
+// DEFINICION DE LA FUNCION COMPRA-VENTA
+int compra-venta(int precio compra, int precio venta)
+{
+	return precio compra - precio venta;
+}

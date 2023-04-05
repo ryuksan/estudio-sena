@@ -1,0 +1,5 @@
+¿Qué tipo de problemas se pueden solucionar en una empresa al desarrollar
+aplicaciones de software?
+
+bueno por experiencia en trabajo en las empresa que labore anterior mente cuando entre mi jefe realizaba las cuentas de 150 trabajadores con excel pero sin manejar tablas y eran formulas directas y no formulas anidadas, con mis conocimientos en excel le realice un trabajo con formulas anidadas que ya facilitaban el trabajo mucho ya de realizar las cuentas de pago en tres dias las realizabamos en dia y medio luego le dije que realizaramos un programa (apliacion) con un programador para facilitar todo mucho mas hoy en dia ya realiza en un dia pues el trabajo ya se realiza mucho mas facil. por eso la importancia de aplicar sofware todo se realiza mucho mas facil.
+facilita la vida de quienes trabajan pues hay que estar mas pendientes de un error humano o un mal funcionamiento del programa y pues ya es mucho menor las posibilidades de un error.
