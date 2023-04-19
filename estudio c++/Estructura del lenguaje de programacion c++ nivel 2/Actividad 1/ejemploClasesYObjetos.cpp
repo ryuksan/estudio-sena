@@ -20,7 +20,8 @@ En la línea 11 se indica el método constructor de la clase que sirve para inic
 variables, debe tener el mismo nombre de la clase y entre paréntesis los tipos de los
 datos a inicializar.
 En las líneas 12 y 13 se indican los métodos comprar y alquilar de la clase.
-En la línea 14 se cierra la llave y se pone el punto y coma (;).*/
+En la línea 14 se cierra la llave y se pone el punto y coma (;).
+*/
 class Cliente {
   private: 
     string cedula;
